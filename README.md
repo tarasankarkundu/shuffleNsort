@@ -1,5 +1,5 @@
 # shuffleNsort
-Live URL: https://tarasankarkundu.github.io/suffleNsort/
+Live URL: https://tarasankarkundu.github.io/shuffleNsort/
 [Better viewd in modern browsers (ex: chrome)]
 
 A simple ES6 project with the following features:
